@@ -1,0 +1,14 @@
+
+# 3
+# A
+# reverse-i-search using for find past commands
+
+# B
+# 'ls -a' is use to list out hidden directories
+
+# C 
+# able to do all the project related and cli stuffs in Ubuntu
+
+# D 
+# yes, used Nginx
+
